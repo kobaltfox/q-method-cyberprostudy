@@ -1,0 +1,14 @@
+.RData
+.Rhistory
+.Rproj.user
+.Ruserdata
+.Rprofile
+.Renviron
+*.RDataTmp
+*.rds
+*.Rcheck/
+*.Rmd.cache/
+*.html
+*.pdf
+*.log
+*.out
