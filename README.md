@@ -1,6 +1,6 @@
 # Q-Method Cybersecurity Study Analysis Application
-# Author: Todd M. Fletcher (PhD Candidate)
-# Affilication: Birmingham City University
+Author: Todd M. Fletcher (PhD Candidate)
+Affiliation: Birmingham City University, UK
 
 This R Shiny application is designed to analyze my Q-methodology data from the 2024-2025 cybersecurity personalty and perspectives study, with a focus on cross-correlating findings with demographic information and personality trait inventories from participants. Learn more at https://kobaltfox.com/defcon32
 
